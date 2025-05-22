@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title("Aplikasi Analisis Dataset Iris 🌸")
-st.write("Selamat datang! Silakan pilih halaman di sidebar.")
+st.title("Hello, World! 👋")
+st.write("Ini adalah aplikasi pertama saya menggunakan Streamlit.")
